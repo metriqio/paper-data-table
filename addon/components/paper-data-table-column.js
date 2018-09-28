@@ -1,5 +1,5 @@
 import Component from '@ember/component';
-import { htmlSafe } from '@ember/template';
+import { htmlSafe } from '@ember/string';
 import { computed } from '@ember/object';
 import Ember from 'ember';
 import layout from '../templates/components/paper-data-table-column';
